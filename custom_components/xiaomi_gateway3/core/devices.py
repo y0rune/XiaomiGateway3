@@ -1623,6 +1623,7 @@ DEVICES += [{
     5860: ["Xiaomi", "TH Clock", "LYWSD02MMC", "miaomiaoce.sensor_ht.o2"],
     9538: ["Xiaomi", "TH Clock Pro", "LYWSD02MMC", "miaomiaoce.sensor_ht.t8"],
     10290: ["Xiaomi", "TH Sensor 3", "MJWSD05MMC", "miaomiaoce.sensor_ht.t9"],
+    19527: ["Xiaomi", "TH Monitor 3", "MJWSD05MMC", "xiaomi.sensor_ht.o3"],
     "spec": [
         # mibeacon2 spec
         BLEFloatConv("temperature", "sensor", mi=19457, round=1),  # float
