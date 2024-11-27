@@ -1388,6 +1388,7 @@ DEVICES += [{
     839: ["Xiaomi", "Qingping TH Sensor", "CGG1", "cgllc.sensor_ht.g1"],
     903: ["Xiaomi", "ZenMeasure TH", "MHO-C401", "miaomiaoce.sensor_ht.h1"],
     1115: ["Xiaomi", "TH Clock", "LYWSD02MMC", "miaomiaoce.sensor_ht.t1"],
+    19527: ["Xiaomi", "TH Monitor 3", "XXXXXXXXX", "xiaomi.sensor_ht.t2"],
     1371: ["Xiaomi", "TH Sensor 2", "LYWSD03MMC", "miaomiaoce.sensor_ht.t2"],
     1398: ["Xiaomi", "Alarm Clock", "CGD1", "cgllc.clock.dove"],
     1647: ["Xiaomi", "Qingping TH Lite", "CGDK2", "cgllc.sensor_ht.dk2"],
@@ -1622,6 +1623,7 @@ DEVICES += [{
 }, {
     5860: ["Xiaomi", "TH Clock", "LYWSD02MMC", "miaomiaoce.sensor_ht.o2"],
     9538: ["Xiaomi", "TH Clock Pro", "LYWSD02MMC", "miaomiaoce.sensor_ht.t8"],
+    19527: ["Xiaomi", "TH Monitor 3", "XXXXXXXXX", "xiaomi.sensor_ht.t2"],
     10290: ["Xiaomi", "TH Sensor 3", "MJWSD05MMC", "miaomiaoce.sensor_ht.t9"],
     "spec": [
         # mibeacon2 spec
